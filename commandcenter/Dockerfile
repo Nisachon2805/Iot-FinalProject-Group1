@@ -14,4 +14,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 
 # Run the MQTT subscriber script
-CMD ["python", "Consumer.py"]
+CMD ["python", "CommandCenter.py"]
