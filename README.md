@@ -62,7 +62,7 @@ All members should be able to utilize commands such as git add, commit, push, an
 ## Member Responsibilities
 
 This project requires four members to collaborate on system development, each assigned to main specific roles: 
-### 1. Hardware Programming
+### 1. Hardware Programming(6430406721 Satchukan Sinsuwanrak)
 Develop software embedded in ESP32 to interface with sensors and actuators on the board and communicate with an MQTT broker.
 
 #### Recommended Skills
@@ -86,7 +86,7 @@ Arduino Programming, Hardware Communication and Networking, MQTT, FreeRTOS
 #### Useful Resources
 - The projects you had completed for the assignment.
   
-### 2. Database & Visualization
+### 2. Database & Visualization(6432091021 Nisachon Sillapawongsa)
 - Handle reading from and writing to the database, as well as managing data for visualization.
 
 #### Recommended Skills 
@@ -110,7 +110,7 @@ MQTT, Python Programming, Data Queurying, REST API, User Interface
 - InfluxDB client library for readind and writing data: [InfluxDB client libraries](https://docs.influxdata.com/influxdb/v1/tools/api_client_libraries/)
 - Develop Grafana dashboard using data from InfluxDB [Get started with Grafana and InfluxDB](https://grafana.com/docs/grafana/latest/getting-started/get-started-grafana-influxdb/) 
   
-### 3. Data Analytics
+### 3. Data Analytics(6430117321 Natwara Wongrujirawanich)
 Utilize the collected data from the system to construct a machine learning model, such as classification or regression.
 
 #### Recommended Skills
@@ -139,7 +139,7 @@ Python Programming, Data Preprocessing, Data Analysis, Machine Learning, Model E
 - Lecture slides in MCV
 - Example of performimg real-time prediction using python [Performing Real-Time Predictions Using Machine Learning, GridDB and Python](https://griddb.net/en/blog/performing-real-time-predictions-using-machine-learning-griddb-and-python/)
 
-### 4. Edge & Cloud Operator
+### 4. Edge & Cloud Operator(6670125021 Nonthaphan Limpongsanurak)
    Containerize applications including MQTT broker, database, and analytics for deployment on both edge and cloud nodes.
 #### Recommended Skills
 Linux Command, Docker Containerization, Service Deployment on Rancher, Networking and Security, Domain Name System 
